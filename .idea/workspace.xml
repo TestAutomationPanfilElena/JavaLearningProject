@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c9c100d-ec56-4fc8-bef1-eb3373be23db" name="Changes" comment="Initial Commit – Created the java project structure with gitignore file.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/variabilesandcomments/VariabilesAndComments.java" afterDir="false" />
+    <list default="true" id="1c9c100d-ec56-4fc8-bef1-eb3373be23db" name="Changes" comment="Added the Variables and Comments Task.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/gitworkflow/GitWorkFlow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,14 +45,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.VariabilesAndComments">
+}</component>
+  <component name="RunManager" selected="Application.GitWorkFlow">
+    <configuration name="GitWorkFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.panfil.gitworkflow.GitWorkFlow" />
+      <module name="JavaLearningProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.panfil.gitworkflow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.panfil.Main" />
       <module name="JavaLearningProject" />
@@ -81,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GitWorkFlow" />
         <item itemvalue="Application.VariabilesAndComments" />
         <item itemvalue="Application.Main" />
       </list>
