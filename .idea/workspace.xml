@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c9c100d-ec56-4fc8-bef1-eb3373be23db" name="Changes" comment="Added the Variables and Comments Task.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/gitworkflow/GitWorkFlow.java" afterDir="false" />
+    <list default="true" id="1c9c100d-ec56-4fc8-bef1-eb3373be23db" name="Changes" comment="Added the implementation of Java Operation, Cyclic Functions and Control Structures.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/methodstask/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/methodstask/DataGeneratorUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/methodstask/ExecutionsService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +54,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GitWorkFlow">
-    <configuration name="GitWorkFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.panfil.gitworkflow.GitWorkFlow" />
+  <component name="RunManager" selected="Application.ExecutionsService">
+    <configuration name="DayOfTheWeekService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.panfil.operationsandcyclicfunctions.DayOfTheWeekService" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.panfil.gitworkflow.*" />
+          <option name="PATTERN" value="org.panfil.operationsandcyclicfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.panfil.Main" />
+    <configuration name="ExecutionsService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.panfil.methodstask.ExecutionsService" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.panfil.*" />
+          <option name="PATTERN" value="org.panfil.methodstask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +81,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariabilesAndComments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.panfil.variabilesandcomments.VariabilesAndComments" />
+    <configuration name="GradeSystemService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.panfil.operationsandcyclicfunctions.GradeSystemService" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.panfil.variabilesandcomments.*" />
+          <option name="PATTERN" value="org.panfil.operationsandcyclicfunctions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IncrementDecrementExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.panfil.operationsandcyclicfunctions.IncrementDecrementExample" />
+      <module name="JavaLearningProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.panfil.operationsandcyclicfunctions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicalOperationsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.panfil.operationsandcyclicfunctions.LogicalOperationsExample" />
+      <module name="JavaLearningProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.panfil.operationsandcyclicfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,9 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GitWorkFlow" />
-        <item itemvalue="Application.VariabilesAndComments" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ExecutionsService" />
+        <item itemvalue="Application.LogicalOperationsExample" />
+        <item itemvalue="Application.IncrementDecrementExample" />
+        <item itemvalue="Application.GradeSystemService" />
+        <item itemvalue="Application.DayOfTheWeekService" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684572859986</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added the implementation of Java Operation, Cyclic Functions and Control Structures.">
+      <created>1684768770804</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684768770804</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +169,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit – Created the java project structure with gitignore file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit – Created the java project structure with gitignore file." />
+    <MESSAGE value="Added the implementation of Java Operation, Cyclic Functions and Control Structures." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the implementation of Java Operation, Cyclic Functions and Control Structures." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/panfil/methodstask/ExecutionsService.java</url>
+          <line>3</line>
+          <properties class="org.panfil.methodstask.ExecutionsService" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
