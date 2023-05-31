@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c9c100d-ec56-4fc8-bef1-eb3373be23db" name="Changes" comment="Added the implementation of Java Operation, Cyclic Functions and Control Structures.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/methodstask/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/methodstask/DataGeneratorUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/methodstask/ExecutionsService.java" afterDir="false" />
+    <list default="true" id="1c9c100d-ec56-4fc8-bef1-eb3373be23db" name="Changes" comment="Added the implementation of Zoo Service by using OOP.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/exceptionsservicetask/ArithmeticOperationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/exceptionsservicetask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/exceptionsservicetask/ReadDataManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/exceptionsservicetask/TextManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/exceptionsservicetask/text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,20 +56,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExecutionsService">
-    <configuration name="DayOfTheWeekService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.panfil.operationsandcyclicfunctions.DayOfTheWeekService" />
-      <module name="JavaLearningProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.panfil.operationsandcyclicfunctions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ExecutionsService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.panfil.methodstask.ExecutionsService" />
       <module name="JavaLearningProject" />
@@ -120,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.panfil.exceptionsservicetask.Main" />
+      <module name="JavaLearningProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.panfil.exceptionsservicetask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ExecutionsService" />
         <item itemvalue="Application.LogicalOperationsExample" />
         <item itemvalue="Application.IncrementDecrementExample" />
         <item itemvalue="Application.GradeSystemService" />
-        <item itemvalue="Application.DayOfTheWeekService" />
       </list>
     </recent_temporary>
   </component>
