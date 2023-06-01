@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c9c100d-ec56-4fc8-bef1-eb3373be23db" name="Changes" comment="Added the implementation of Zoo Service by using OOP.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/exceptionsservicetask/ArithmeticOperationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/exceptionsservicetask/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/exceptionsservicetask/ReadDataManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/exceptionsservicetask/TextManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/exceptionsservicetask/text.txt" afterDir="false" />
+    <list default="true" id="1c9c100d-ec56-4fc8-bef1-eb3373be23db" name="Changes" comment="Added the implementation of Checked and Unchecked exceptions.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +150,28 @@
       <option name="project" value="LOCAL" />
       <updated>1684768770804</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added the implementation of Checked and Unchecked exceptions.">
+      <created>1685539303028</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685539303028</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added the implementation of Checked and Unchecked exceptions.">
+      <created>1685598407960</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685598407960</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added the implementation of Checked and Unchecked exceptions.">
+      <created>1685598641617</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685598641617</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,7 +188,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit – Created the java project structure with gitignore file." />
     <MESSAGE value="Added the implementation of Java Operation, Cyclic Functions and Control Structures." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the implementation of Java Operation, Cyclic Functions and Control Structures." />
+    <MESSAGE value="Added the implementation of Checked and Unchecked exceptions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the implementation of Checked and Unchecked exceptions." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
