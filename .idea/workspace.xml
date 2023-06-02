@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c9c100d-ec56-4fc8-bef1-eb3373be23db" name="Changes" comment="Add the changes that involves Different Methods, Overloading.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/zooclubservice/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/zooclubservice/Animalnterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/zooclubservice/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/zooclubservice/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/zooclubservice/Fox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/panfil/zooclubservice/ZooExecutionService.java" afterDir="false" />
+
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +52,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ZooExecutionService">
+
     <configuration name="ExecutionsService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.panfil.methodstask.ExecutionsService" />
       <module name="JavaLearningProject" />
@@ -111,12 +105,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZooExecutionService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.panfil.zooclubservice.ZooExecutionService" />
-      <module name="JavaLearningProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.panfil.zooclubservice.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,7 +115,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ZooExecutionService" />
+
         <item itemvalue="Application.ExecutionsService" />
         <item itemvalue="Application.LogicalOperationsExample" />
         <item itemvalue="Application.IncrementDecrementExample" />
@@ -157,7 +146,28 @@
       <option name="project" value="LOCAL" />
       <updated>1684768770804</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added the implementation of Checked and Unchecked exceptions.">
+      <created>1685539303028</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685539303028</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added the implementation of Checked and Unchecked exceptions.">
+      <created>1685598407960</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685598407960</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added the implementation of Checked and Unchecked exceptions.">
+      <created>1685598641617</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685598641617</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,7 +184,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit – Created the java project structure with gitignore file." />
     <MESSAGE value="Added the implementation of Java Operation, Cyclic Functions and Control Structures." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the implementation of Java Operation, Cyclic Functions and Control Structures." />
+    <MESSAGE value="Added the implementation of Checked and Unchecked exceptions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the implementation of Checked and Unchecked exceptions." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
