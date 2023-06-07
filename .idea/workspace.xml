@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeSystemService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.panfil.operationsandcyclicfunctions.GradeSystemService" />
+    <configuration name="FileTaskExecution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.panfil.filemanagementservice.FileTaskExecution" />
       <module name="JavaLearningProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.panfil.operationsandcyclicfunctions.*" />
+          <option name="PATTERN" value="org.panfil.filemanagementservice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,7 +119,6 @@
         <item itemvalue="Application.ExecutionsService" />
         <item itemvalue="Application.LogicalOperationsExample" />
         <item itemvalue="Application.IncrementDecrementExample" />
-        <item itemvalue="Application.GradeSystemService" />
       </list>
     </recent_temporary>
   </component>
